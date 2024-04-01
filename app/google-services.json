@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722824432648",
+    "project_id": "uts-pam-fe81b",
+    "storage_bucket": "uts-pam-fe81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722824432648:android:f750dc259549ccfd1655bd",
+        "android_client_info": {
+          "package_name": "com.example.uts_pam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGv_pmvuE1ArVXzasKgXEcXRFKlj6ABa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

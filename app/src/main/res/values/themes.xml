@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.UTS_PAM" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="colorPrimary">@color/button</item>
+        <item name="colorPrimaryDark">@color/button</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/button</item>
+        <item name="colorPrimaryDark">@color/button</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <!-- Other customizations -->
+    </style>
+    <style name="Theme.SplashScreen" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="colorPrimary">@color/button</item>
+        <item name="colorPrimaryDark">@color/button</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+</resources>
